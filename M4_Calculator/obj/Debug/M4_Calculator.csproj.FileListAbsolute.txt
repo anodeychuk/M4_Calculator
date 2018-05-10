@@ -1,0 +1,13 @@
+C:\Users\Andrii\Source\Repos\M4_Calculator\M4_Calculator\obj\Debug\M4_Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Andrii\Source\Repos\M4_Calculator\M4_Calculator\obj\Debug\M4_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Andrii\Source\Repos\M4_Calculator\M4_Calculator\bin\Debug\M4_Calculator.exe.config
+C:\Users\Andrii\Source\Repos\M4_Calculator\M4_Calculator\bin\Debug\M4_Calculator.exe
+C:\Users\Andrii\Source\Repos\M4_Calculator\M4_Calculator\bin\Debug\M4_Calculator.pdb
+C:\Users\Andrii\Source\Repos\M4_Calculator\M4_Calculator\obj\Debug\M4_Calculator.exe
+C:\Users\Andrii\Source\Repos\M4_Calculator\M4_Calculator\obj\Debug\M4_Calculator.pdb
+E:\Прогр\M4_Calculator\M4_Calculator\bin\Debug\M4_Calculator.exe.config
+E:\Прогр\M4_Calculator\M4_Calculator\obj\Debug\M4_Calculator.exe
+E:\Прогр\M4_Calculator\M4_Calculator\obj\Debug\M4_Calculator.pdb
+E:\Прогр\M4_Calculator\M4_Calculator\bin\Debug\M4_Calculator.exe
+E:\Прогр\M4_Calculator\M4_Calculator\bin\Debug\M4_Calculator.pdb
+E:\Прогр\M4_Calculator\M4_Calculator\obj\Debug\M4_Calculator.csprojResolveAssemblyReference.cache
